@@ -1,0 +1,3 @@
+/home/remote/Desktop/infineon/ComLib_C_Interface/examples/S2GLP_basics/build/CMakeFiles/rebuild_cache.dir
+/home/remote/Desktop/infineon/ComLib_C_Interface/examples/S2GLP_basics/build/CMakeFiles/edit_cache.dir
+/home/remote/Desktop/infineon/ComLib_C_Interface/examples/S2GLP_basics/build/CMakeFiles/s2glp_basics.dir
